@@ -66,3 +66,7 @@ The *draw_lines()* filters an array resulting from the Hough transform and tries
 * Define road markings better than by delimiting trapezoid.
 
 * Write a better code.
+
+
+## Example of processing
+<iframe width="560" height="315" src="https://www.youtube.com/embed/THqHVMkmEAk" frameborder="0" allowfullscreen></iframe>
